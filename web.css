@@ -1,0 +1,43 @@
+main{
+    text-align: center;
+}
+.text-box{
+    text-align: left;
+    margin-left: 600px;
+    padding: 30px;
+    border: 20px;
+    border-radius: 10px;
+    width: 700px;
+    height: auto;
+    background-color: rgb(252, 239, 239);
+}
+p2{
+    margin-left: 60px;
+}
+.ing{
+    text-align: left;
+    margin-left: 600px;
+    padding: 30px;
+    h1 {
+        color: rgb(3, 1, 1);
+    }
+}
+.inst{
+    text-align: left;
+    margin-left: 600px;
+    padding: 30px;
+    h1 {
+        color: rgb(3, 1, 1);
+    }
+}
+
+.nut{
+    text-align: left;
+    margin-left: 600px;
+    padding: 30px;
+}
+.nutrition{
+    text-align: left;
+    margin-left: 600px;
+    padding: 30px;
+}
